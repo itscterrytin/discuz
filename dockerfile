@@ -1,5 +1,5 @@
 #
-# Dockerfile for discuz
+# Dockerfile for discuz X3.2 TC utf8
 #
 
 FROM php:5.6-apache
